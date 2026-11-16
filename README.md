@@ -1,36 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:6A4C93&height=190&section=header&text=Deep%20Patange&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Websites%20%C2%B7%20D2C%20stores%20%C2%B7%20internal%20tools%20%C2%B7%20AI&descSize=18&descAlignY=58" width="100%" alt="Deep Patange">
+<img src="assets/banner.jpg" width="100%" alt="Deep Patange: full-stack developer, D2C and Shopify, AI systems, Mumbai">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=D97757&center=true&vCenter=true&width=640&lines=Senior+Executive%2C+Technology+%26+AI+%40+DigiVeritaz;12%2B+client+sites+and+stores+shipped+in+5+months;Building+with+Next.js%2C+Python+and+Claude" alt="Typing intro"></a>
-
-<a href="https://www.linkedin.com/in/deep-patange"><img src="https://img.shields.io/badge/LinkedIn-deep--patange-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:deeppatange432@gmail.com"><img src="https://img.shields.io/badge/Email-deeppatange432-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://img.shields.io/badge/Mumbai-India-D97757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mumbai, India">
-<img src="https://komarev.com/ghpvc/?username=DeepPatange&style=for-the-badge&color=6A4C93&label=PROFILE+VIEWS" alt="Profile views">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=E5534B&center=true&vCenter=true&width=640&lines=Senior+Executive%2C+Technology+%26+AI+%40+DigiVeritaz;12%2B+client+sites+and+stores+shipped+in+5+months;Building+with+Next.js%2C+Python+and+Claude" alt="Typing intro"></a>
 
 </div>
 
----
+### 🎯 About Me
 
-### 👋 About me
+<table>
+<tr>
+<td width="56%" valign="top">
 
 ```ts
 const deep = {
-  basedIn:   "Mumbai, India",
-  now:       "Senior Executive, Technology & AI Development @ DigiVeritaz AI Marketing",
-  before:    "Research Analyst, Business Operations @ Media.net",
-  studying:  "M.Tech, Computer Engineering (dissertation stage)",
-  builds:    ["client websites", "Shopify stores", "CRMs", "AI pipelines"],
-  alsoDoes:  ["SEO", "Meta Pixel + CAPI", "specs & scoping", "pitch decks"],
-  funFact:   "my Claude Code agents have their own pixel office 🏢",
+  role:     "Senior Executive, Tech & AI",
+  at:       "DigiVeritaz · Mumbai 🇮🇳",
+  before:   "Business Ops @ Media.net",
+  studying: "M.Tech, Computer Engineering",
+
+  building: [
+    "Client websites & D2C stores",
+    "CRMs & internal tools",
+    "AI pipelines",
+  ],
+
+  tech: {
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend:  ["Node.js", "Express", "FastAPI"],
+    data:     ["PostgreSQL", "SQLite", "pandas"],
+    ai:       ["Claude", "Gemini", "Groq"],
+    commerce: ["Shopify", "Razorpay", "Meta CAPI"],
+  },
 };
 ```
+
+> *"Do nothing which is of no use."*
+>
+> <p align="right">— Miyamoto Musashi, <i>The Book of Five Rings</i></p>
+
+</td>
+<td width="44%" valign="middle">
+
+<img src="assets/agent-crew-office.png" width="100%" alt="Agent Crew: a pixel office where Claude Code agents work, take coffee breaks and play games when they finish">
+
+<p align="center"><sub>my Claude Code agents at work in <a href="https://github.com/DeepPatange/agent-crew"><b>Agent Crew</b></a>, a VS Code extension I built</sub></p>
+
+</td>
+</tr>
+</table>
+
+#### ⚡ Highlights
 
 - 🏗️ Designed and built my agency's **internal operations platform** from scratch: leads, tasks, attendance, payroll rules and a client portal across **8 departments** (51 tables, 4 roles, 11 automations).
 - 🛒 Ship **D2C storefronts**: headless Shopify with an in-house checkout, store + admin builds, Meta Pixel and server-side Conversions API.
 - ⚡ Cut a B2B client's homepage **LCP from 2.27 s to 0.29 s**.
 - 📈 Launched a lead-management CRM for a two-branch wellness clinic: **880+ leads in eight weeks**.
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deep-patange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:deeppatange432@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://img.shields.io/badge/Mumbai%2C%20India-1b1b1b?style=for-the-badge&logo=googlemaps&logoColor=E5534B" alt="Mumbai, India">
+  <img src="https://komarev.com/ghpvc/?username=DeepPatange&style=for-the-badge&color=A3201A&label=PROFILE+VIEWS" alt="Profile views">
+</p>
 
 ---
 
@@ -137,41 +171,46 @@ Most client code lives in private repos, so here's what I built for each client 
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css&perline=8" alt="Frontend">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,threejs,vite,html,css&perline=11" alt="Frontend">
   <br>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,git,github,vercel&perline=8" alt="Backend and tools">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,prisma,docker,git,github,vercel,vscode,linux&perline=11" alt="Backend and tools">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API">
-  <img src="https://img.shields.io/badge/Meta%20Ads%20%2B%20CAPI-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads">
-  <img src="https://img.shields.io/badge/Apps%20Script-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets and Apps Script">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio">
-  <img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white" alt="Semrush">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Meta%20Ads%20%2B%20CAPI-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads + CAPI">
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay">
+  <img src="https://img.shields.io/badge/Apps%20Script-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Apps Script">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit--learn">
+  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white" alt="Remotion">
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" alt="Semrush">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro">
 </p>
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DeepPatange&hide_border=true&theme=tokyonight" alt="GitHub contribution streak">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepPatange&theme=github_dark" alt="GitHub profile details">
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeepPatange&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepPatange&theme=github_dark" alt="Top languages by repo">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepPatange&theme=github_dark&utcOffset=5.5" alt="Commits by hour (IST)">
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:D97757&height=100&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:A3201A&height=90&section=footer" width="100%" alt="">
 
 </div>
