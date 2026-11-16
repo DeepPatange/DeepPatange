@@ -115,11 +115,11 @@ Most client code lives in private repos, so here's what I built for each client 
 | **[Figure Slim](https://www.figureslim.in)** · weight-loss clinic | A lead-management CRM that collects Meta, Google Ads, website and walk-in enquiries, plus Diwali campaign landing pages that feed it |
 | **[Individual Design](https://individualdesign.in)** · handbags | Five product landing pages on the Shopify Storefront API with Meta Pixel and server-side Conversions API, and an analytics view that checks true ROAS against Meta-reported ROAS |
 | **[Sakaza](https://sakazaworld.com)** · sauces and noodles | Homepage redesign, an audit of six Amazon listings (147 findings) and relaunch creatives |
-| **YOBO** · lingerie | A 96-page store redesign prototype and a 37-section Shopify theme pack with a size finder, bundle pricing and 28 complete-the-look pairings |
-| **Accord Chemical Corporation** · petrochemical trading | Website redesign with a 3D hero, animated metrics and a network map |
-| **Shape-U Clinic** · weight loss | Quiz-style landing page and an OTP-verified lead page, with leads going straight into Google Sheets |
-| **Ashlar Tattva** · real estate | Lead-generation landing page for a residential project |
-| **Aeroplane Rice** · FMCG | New website that also builds as a Shopify theme (in progress) |
+| **[YOBO](https://www.yobolovesit.com)** · lingerie | Store redesign, now the live theme: a 96-page redesign built from real store data and a 37-section Shopify Horizon theme pack with a size finder, bundle pricing and 28 complete-the-look pairings |
+| **[Accord Chemical Corporation](https://ac-web-white.vercel.app)** · petrochemical trading | Website redesign with a 3D hero, animated metrics and a network map |
+| **[Shape-U Clinic](https://landing.shapeuclinic.in)** · weight loss | Campaign landing page plus a quiz-style page and an OTP-verified lead page, with leads going straight into Google Sheets |
+| **[Ashlar Tattva](https://www.ashlartattva.net)** · real estate | Lead-generation landing page for a residential project |
+| **[Aeroplane Rice](https://www.aeroplanerice.com)** · basmati rice exporter | New website to replace the current one, which also builds as a Shopify theme (in progress) |
 | **[The Watch Scanner](https://www.thewatchscanner.com)** · pre-owned luxury watches | Growth and SEO work on the Shopify theme (contributor) |
 | **[Variety India](https://varietyindia.com)** · media | Google indexing audit of 3,869 articles, with a prioritised list of fixes |
 
