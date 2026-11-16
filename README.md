@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Deep Patange: full-stack developer, D2C and Shopify, AI systems, Mumbai">
+<img src="assets/banner.png" width="100%" alt="Deep Patange: full-stack developer, D2C and Shopify, AI systems, Mumbai, over a pixel office from Agent Crew">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=E5534B&center=true&vCenter=true&width=640&lines=Senior+Executive%2C+Technology+%26+AI+%40+DigiVeritaz;12%2B+client+sites+and+stores+shipped+in+5+months;Building+with+Next.js%2C+Python+and+Claude" alt="Typing intro"></a>
 
@@ -42,9 +42,7 @@ const deep = {
 </td>
 <td width="44%" valign="middle">
 
-<img src="assets/agent-crew-office.png" width="100%" alt="Agent Crew: a pixel office where Claude Code agents work, take coffee breaks and play games when they finish">
-
-<p align="center"><sub>my Claude Code agents at work in <a href="https://github.com/DeepPatange/agent-crew"><b>Agent Crew</b></a>, a VS Code extension I built</sub></p>
+<img src="assets/samurai-card.png" width="100%" alt="A tuxedo cat in a samurai headband holding a katana, in front of a red ring">
 
 </td>
 </tr>
